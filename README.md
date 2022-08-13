@@ -2,22 +2,22 @@
 ## SKILL {}
 
 <picture>
-     <img src="https://lenguajecss.com/assets/logo.svg" width="50" height="50" alt="CSS">
+     <img src="https://github.com/jnarvaezg64/imagenes/blob/main/css.svg" width="50" height="50" alt="CSS">
 </picture>
 <picture>
-     <img src="https://lenguajehtml.com/assets/logo.svg" width="50" height="50" >
+     <img src="https://github.com/jnarvaezg64/imagenes/blob/main/html.svg" width="50" height="50" >
 </picture>
 <picture>
-      <img src="https://i.blogs.es/544e7d/650_1000_javascript_logo/1366_2000.webp" width="50" height="50" > 
+      <img src="https://github.com/jnarvaezg64/imagenes/blob/main/JavaScript.svg" width="50" height="50" > 
 </picture>
 <picture>
-   <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="50" height="50" >
+   <img src="https://github.com/jnarvaezg64/imagenes/blob/main/bootstrap.svg" width="50" height="50" >
 </picture>
 <picture>
-      <img src="https://github.com/jnarvaezg64/imagenes/blob/main/java.png" width="60" height="60" >
+      <img src="https://edujimenezc.github.io/TheHackerSwissKnife/SOURCES/imagenes/java.png" width="60" height="60" >
 </picture>
 <picture>
-      <img src="https://www.latindevelopers.com/wp-content/uploads/2017/12/sql_icon-300x300.png" width="50" height="60" >
+      <img src="https://github.com/jnarvaezg64/imagenes/blob/main/sql_icon-300x300.png" width="50" height="60" >
 </picture>
 
 
