@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Título del Proyecto
-
+<h1 align="center"> Su título aquí </h1>
 _Acá va un párrafo que describa lo que es el proyecto_
 
 ## Comenzando 🚀
