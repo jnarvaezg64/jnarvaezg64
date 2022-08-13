@@ -14,7 +14,7 @@
    <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="50" height="50" >
 </picture>
 <picture>
-      <img src="https://edujimenezc.github.io/TheHackerSwissKnife/SOURCES/imagenes/java.png" width="60" height="60" >
+      <img src="https://github.com/jnarvaezg64/imagenes/blob/main/java.png" width="60" height="60" >
 </picture>
 <picture>
       <img src="https://www.latindevelopers.com/wp-content/uploads/2017/12/sql_icon-300x300.png" width="50" height="60" >
