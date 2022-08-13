@@ -1,15 +1,25 @@
-### Hi there 👋
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+## SKILL {}
 
-# Título del Proyecto
-<h1 align="center"> Su título aquí </h1>
-_Acá va un párrafo que describa lo que es el proyecto_
-
-## Comenzando 🚀
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+     <img src="https://lenguajecss.com/assets/logo.svg" width="50" height="50" alt="CSS">
 </picture>
+<picture>
+     <img src="https://lenguajehtml.com/assets/logo.svg" width="50" height="50" >
+</picture>
+<picture>
+      <img src="https://i.blogs.es/544e7d/650_1000_javascript_logo/1366_2000.webp" width="50" height="50" > 
+</picture>
+<picture>
+   <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="50" height="50" >
+</picture>
+<picture>
+      <img src="https://edujimenezc.github.io/TheHackerSwissKnife/SOURCES/imagenes/java.png" width="60" height="60" >
+</picture>
+<picture>
+      <img src="https://www.latindevelopers.com/wp-content/uploads/2017/12/sql_icon-300x300.png" width="50" height="60" >
+</picture>
+
 
 
 ### Pre-requisitos 📋
