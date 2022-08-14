@@ -28,7 +28,9 @@
 </picture>
 <br>
 <br>
- 👉 Proyectos
+     <p> 👉 Proyectos </p>
+ <br>
+     
+ Viajes de Chile
  
- ##Viajes de Chile
- https://jnarvaezg64.github.io/viajes_de_chile/
+     https://jnarvaezg64.github.io/viajes_de_chile/
