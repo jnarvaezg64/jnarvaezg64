@@ -1,5 +1,5 @@
 <picture>
-     <img src="https://github.com/jnarvaezg64/imagenes/blob/main/Banner.JPG" width="400" height="300" alt="CSS">
+     <img src="https://github.com/jnarvaezg64/imagenes/blob/main/Banner.JPG" width="600" height="300" alt="CSS">
 </picture>
 
 ### SKILL <picture> <img src="https://github.com/jnarvaezg64/imagenes/blob/main/Herramientas.png" width="20" height="20">
