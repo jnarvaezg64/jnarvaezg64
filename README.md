@@ -31,8 +31,6 @@
      <p> 👉 Proyectos </p>
  <br>
      
- Viajes de Chile
- 
-     
-     
+    
 * [Viajes de Chile](https://jnarvaezg64.github.io/viajes_de_chile/)
+* [Ricomida](https://jnarvaezg64.github.io/ricomida/) 
