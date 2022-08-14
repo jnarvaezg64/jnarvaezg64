@@ -1,5 +1,5 @@
 
-### SKILL <picture> <img src="https://github.com/jnarvaezg64/imagenes/blob/main/Herramientas.png" width="10" height="10">
+### SKILL <picture> <img src="https://github.com/jnarvaezg64/imagenes/blob/main/Herramientas.png" width="20" height="20">
 </picture>
 
 <picture>
