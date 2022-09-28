@@ -7,7 +7,7 @@
 <small> 
 Más de 20 años de especialización en el área de Servicios Informáticos, amplia experiencia en el área de consultoría principalmente en los World Class de Oracle PeopleSoft Finanzas, Recursos Humanos, Campus Solution y CRM
 
-Hoy estoy girando a una nueva etapa profesional, reinventándome hacia el mundo web para ello he tomado un BOOTCAMP en Desarrollo de Aplicaciones Full Stack Java este es el comienzo de un cambio de paradigmas, siempre es posible tomar nuevos desafíos es la razón de los apasionados por la tecnología, no tengo problemas para asumir este nuevo rol de Padawan y esa es mi postura en la vida ir aprendiendo del que sabe mas no importando su edad, genero y color de piel, la sabiduría se encuentra en donde menos se espera.
+Hoy estoy iniciando una nueva etapa profesional, hacia el mundo web para ello he tomado un BOOTCAMP en Desarrollo de Aplicaciones Full Stack Java, este es el comienzo de un cambio de paradigma, siempre es posible tomar nuevos desafíos es la razón de los apasionados por la tecnología. Aprender del que sabe mas no importando su edad, género y color de piel es una máxima para mí, la sabiduría se encuentra en donde menos se espera.
 
  <p>👉 Skills <picture> <img src="https://github.com/jnarvaezg64/imagenes/blob/main/Herramientas.png" width="20" height="20"></picture></p>
 
