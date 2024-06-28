@@ -32,6 +32,9 @@ Hoy estoy en una nueva etapa profesional, hacia el mundo web para ello he tomado
 <picture>
       <img src="https://github.com/jnarvaezg64/imagenes/blob/main/Postman.jpg" width="90" height="50" >
 </picture>
+<picture>
+      <img src="https://github.com/jnarvaezg64/imagenes/blob/main/peoplesoft2.svg" width="90" height="50" >
+</picture>
 <br>
 <br>
      <p> 👉 Proyectos </p>
