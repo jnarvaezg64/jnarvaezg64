@@ -24,7 +24,7 @@ Hoy estoy en una nueva etapa profesional, hacia el mundo web para ello he tomado
    <img src="https://github.com/jnarvaezg64/imagenes/blob/main/bootstrap.svg" width="40" height="40" >
 </picture>
 <picture>
-      <img src="https://edujimenezc.github.io/TheHackerSwissKnife/SOURCES/imagenes/java.png" width="50" height="50" >
+      "https://github.com/jnarvaezg64/imagenes/blob/main/java2.svn" width="20" height="20" >
 </picture>
 <picture>
       <img src="https://github.com/jnarvaezg64/imagenes/blob/main/sql_icon-300x300.png" width="40" height="40" >
